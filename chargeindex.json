@@ -5,7 +5,7 @@
     "caffeine_mg": 120,
     "volume_ml": 330,
     "taste": 6.8,
-    "overall": 75
+    "price": 1.99
   },
   {
     "brand": "TestBrand",
@@ -13,7 +13,7 @@
     "caffeine_mg": 200,
     "volume_ml": 500,
     "taste": 8.2,
-    "overall": 88
+    "price": 2.49
   },
   {
     "brand": "TestBrand",
@@ -21,7 +21,7 @@
     "caffeine_mg": 80,
     "volume_ml": 250,
     "taste": 5.9,
-    "overall": 62
+    "price": 1.79
   },
   {
     "brand": "TestBrand",
@@ -29,7 +29,7 @@
     "caffeine_mg": 160,
     "volume_ml": 473,
     "taste": 7.4,
-    "overall": 80
+    "price": 2.29
   },
   {
     "brand": "TestBrand",
@@ -37,7 +37,7 @@
     "caffeine_mg": 300,
     "volume_ml": 500,
     "taste": 9.1,
-    "overall": 95
+    "price": 3.49
   },
   {
     "brand": "TestBrand",
@@ -45,7 +45,7 @@
     "caffeine_mg": 100,
     "volume_ml": 355,
     "taste": 6.2,
-    "overall": 68
+    "price": 1.69
   },
   {
     "brand": "TestBrand",
@@ -53,7 +53,7 @@
     "caffeine_mg": 180,
     "volume_ml": 473,
     "taste": 7.0,
-    "overall": 77
+    "price": 2.19
   },
   {
     "brand": "TestBrand",
@@ -61,7 +61,7 @@
     "caffeine_mg": 250,
     "volume_ml": 500,
     "taste": 8.5,
-    "overall": 90
+    "price": 2.99
   },
   {
     "brand": "TestBrand",
@@ -69,7 +69,7 @@
     "caffeine_mg": 95,
     "volume_ml": 250,
     "taste": 5.5,
-    "overall": 60
+    "price": 1.49
   },
   {
     "brand": "TestBrand",
@@ -77,6 +77,6 @@
     "caffeine_mg": 140,
     "volume_ml": 400,
     "taste": 7.8,
-    "overall": 84
+    "price": 2.39
   }
 ]
