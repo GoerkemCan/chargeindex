@@ -22,5 +22,13 @@
     "volume_ml": 11,
     "taste": 2.0,
     "price": 0.0
+  },
+  {
+    "brand": "TEST",
+    "drink": "Hey:3",
+    "caffeine_mg": 3,
+    "volume_ml": 3,
+    "taste": 3.0,
+    "price": 0.0
   }
 ]
