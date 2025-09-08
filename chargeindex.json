@@ -9,15 +9,6 @@
     "times_drunk": 1
   },
   {
-    "brand": "TEST",
-    "drink": "Hey:3",
-    "caffeine_mg": 3,
-    "volume_ml": 3,
-    "taste": 3.0,
-    "price": 0.0,
-    "times_drunk": 2
-  },
-  {
     "brand": "RedBull",
     "drink": "ZERO",
     "caffeine_mg": 80,
