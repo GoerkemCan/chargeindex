@@ -6,5 +6,29 @@
     "volume_ml": 500,
     "taste": 5.5,
     "price": 1.79
+  },
+  {
+    "brand": "TEST",
+    "drink": "Test1",
+    "caffeine_mg": 0,
+    "volume_ml": 0,
+    "taste": 1.0,
+    "price": 0.0
+  },
+  {
+    "brand": "TEST",
+    "drink": "Test2",
+    "caffeine_mg": 0,
+    "volume_ml": 0,
+    "taste": 0.0,
+    "price": 0.0
+  },
+  {
+    "brand": "TEST",
+    "drink": "Hi",
+    "caffeine_mg": 0,
+    "volume_ml": 100,
+    "taste": 4.0,
+    "price": 0.0
   }
 ]
