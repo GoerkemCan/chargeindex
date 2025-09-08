@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "brand": "ROCKSTAR",
+    "drink": "Zero Sugar: Strawberry Lime Flavour",
+    "caffeine_mg": 155,
+    "volume_ml": 500,
+    "taste": 5.5,
+    "price": 1.79
+  }
+]
