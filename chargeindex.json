@@ -10,15 +10,6 @@
   },
   {
     "brand": "TEST",
-    "drink": "Hi",
-    "caffeine_mg": 3,
-    "volume_ml": 11,
-    "taste": 2.0,
-    "price": 0.0,
-    "times_drunk": 2
-  },
-  {
-    "brand": "TEST",
     "drink": "Hey:3",
     "caffeine_mg": 3,
     "volume_ml": 3,
