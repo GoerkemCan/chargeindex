@@ -5,7 +5,7 @@
     "caffeine_mg": 155,
     "volume_ml": 500,
     "taste": 5.5,
-    "price": 1.79
+    "price": 1.79,
     "times_drunk": 1
   },
   {
@@ -14,7 +14,7 @@
     "caffeine_mg": 0,
     "volume_ml": 10,
     "taste": 0.0,
-    "price": 0.0
+    "price": 0.0,
     "times_drunk": 2
   },
   {
@@ -23,7 +23,7 @@
     "caffeine_mg": 3,
     "volume_ml": 11,
     "taste": 2.0,
-    "price": 0.0
+    "price": 0.0,
     "times_drunk": 2
   },
   {
@@ -32,7 +32,7 @@
     "caffeine_mg": 3,
     "volume_ml": 3,
     "taste": 3.0,
-    "price": 0.0
+    "price": 0.0,
     "times_drunk": 2
   },
   {
