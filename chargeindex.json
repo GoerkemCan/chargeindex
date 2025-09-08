@@ -30,5 +30,14 @@
     "volume_ml": 3,
     "taste": 3.0,
     "price": 0.0
+  },
+  {
+    "brand": "TEST",
+    "drink": "Drink1",
+    "caffeine_mg": 2,
+    "volume_ml": 2,
+    "taste": 2.0,
+    "price": 0.0,
+    "times_drunk": 1
   }
 ]
