@@ -1,18 +1,82 @@
 [
   {
-    "brand": "Monster",
-    "drink": "Ultra Sunrise",
-    "caffeine_mg": 150,
-    "volume_ml": 473,
-    "taste": 7.5,
-    "overall": 82
+    "brand": "TestBrand",
+    "drink": "Test 1",
+    "caffeine_mg": 120,
+    "volume_ml": 330,
+    "taste": 6.8,
+    "overall": 75
   },
   {
-    "brand": "Red Bull",
-    "drink": "Sugarfree",
+    "brand": "TestBrand",
+    "drink": "Test 2",
+    "caffeine_mg": 200,
+    "volume_ml": 500,
+    "taste": 8.2,
+    "overall": 88
+  },
+  {
+    "brand": "TestBrand",
+    "drink": "Test 3",
     "caffeine_mg": 80,
     "volume_ml": 250,
-    "taste": 6.5,
-    "overall": 70
+    "taste": 5.9,
+    "overall": 62
+  },
+  {
+    "brand": "TestBrand",
+    "drink": "Test 4",
+    "caffeine_mg": 160,
+    "volume_ml": 473,
+    "taste": 7.4,
+    "overall": 80
+  },
+  {
+    "brand": "TestBrand",
+    "drink": "Test 5",
+    "caffeine_mg": 300,
+    "volume_ml": 500,
+    "taste": 9.1,
+    "overall": 95
+  },
+  {
+    "brand": "TestBrand",
+    "drink": "Test 6",
+    "caffeine_mg": 100,
+    "volume_ml": 355,
+    "taste": 6.2,
+    "overall": 68
+  },
+  {
+    "brand": "TestBrand",
+    "drink": "Test 7",
+    "caffeine_mg": 180,
+    "volume_ml": 473,
+    "taste": 7.0,
+    "overall": 77
+  },
+  {
+    "brand": "TestBrand",
+    "drink": "Test 8",
+    "caffeine_mg": 250,
+    "volume_ml": 500,
+    "taste": 8.5,
+    "overall": 90
+  },
+  {
+    "brand": "TestBrand",
+    "drink": "Test 9",
+    "caffeine_mg": 95,
+    "volume_ml": 250,
+    "taste": 5.5,
+    "overall": 60
+  },
+  {
+    "brand": "TestBrand",
+    "drink": "Test 10",
+    "caffeine_mg": 140,
+    "volume_ml": 400,
+    "taste": 7.8,
+    "overall": 84
   }
 ]
