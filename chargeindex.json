@@ -14,5 +14,13 @@
     "volume_ml": 10,
     "taste": 0.0,
     "price": 0.0
+  },
+  {
+    "brand": "TEST",
+    "drink": "Hi",
+    "caffeine_mg": 3,
+    "volume_ml": 11,
+    "taste": 2.0,
+    "price": 0.0
   }
 ]
