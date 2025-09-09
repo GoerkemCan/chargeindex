@@ -25,5 +25,14 @@
     "taste": 6.5,
     "price": 1.49,
     "times_drunk": 1
+  },
+  {
+    "brand": "RedBull",
+    "drink": "THE PINK EDITION",
+    "caffeine_mg": 80,
+    "volume_ml": 250,
+    "taste": 6.0,
+    "price": 1.39,
+    "times_drunk": 1
   }
 ]
