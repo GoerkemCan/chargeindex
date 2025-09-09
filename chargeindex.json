@@ -9,15 +9,6 @@
     "times_drunk": 1
   },
   {
-    "brand": "RedBull",
-    "drink": "ZERO",
-    "caffeine_mg": 80,
-    "volume_ml": 250,
-    "taste": 7.5,
-    "price": 1.49,
-    "times_drunk": 1
-  },
-  {
     "brand": "MONSTER",
     "drink": "Zero Sugar",
     "caffeine_mg": 160,
@@ -32,6 +23,15 @@
     "caffeine_mg": 80,
     "volume_ml": 250,
     "taste": 6.0,
+    "price": 1.39,
+    "times_drunk": 1
+  },
+  {
+    "brand": "RedBull",
+    "drink": "ZERO",
+    "caffeine_mg": 80,
+    "volume_ml": 250,
+    "taste": 7.5,
     "price": 1.39,
     "times_drunk": 1
   }
