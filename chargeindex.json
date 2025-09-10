@@ -43,5 +43,14 @@
     "taste": 8.0,
     "price": 1.39,
     "times_drunk": 1
+  },
+  {
+    "brand": "RedBull",
+    "drink": "THE YELLOW EDITION",
+    "caffeine_mg": 80,
+    "volume_ml": 250,
+    "taste": 5.5,
+    "price": 1.39,
+    "times_drunk": 1
   }
 ]
