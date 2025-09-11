@@ -52,5 +52,14 @@
     "taste": 5.5,
     "price": 1.39,
     "times_drunk": 1
+  },
+  {
+    "brand": "28 BLACK",
+    "drink": "AÇAÍ ZERO",
+    "caffeine_mg": 80,
+    "volume_ml": 250,
+    "taste": 5.0,
+    "price": 1.59,
+    "times_drunk": 1
   }
 ]
