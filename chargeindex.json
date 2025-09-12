@@ -61,5 +61,14 @@
     "taste": 5.0,
     "price": 1.59,
     "times_drunk": 1
+  },
+  {
+    "brand": "RedBull",
+    "drink": "SUGARFREE",
+    "caffeine_mg": 113,
+    "volume_ml": 355,
+    "taste": 6.2,
+    "price": 1.89,
+    "times_drunk": 1
   }
 ]
