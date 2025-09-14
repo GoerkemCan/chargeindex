@@ -70,5 +70,14 @@
     "taste": 6.2,
     "price": 1.89,
     "times_drunk": 1
+  },
+  {
+    "brand": "RedBull",
+    "drink": "THE LILAC EDITION SUGARFREE",
+    "caffeine_mg": 80,
+    "volume_ml": 250,
+    "taste": 8.5,
+    "price": 1.39,
+    "times_drunk": 1
   }
 ]
