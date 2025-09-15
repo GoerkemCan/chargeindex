@@ -79,5 +79,14 @@
     "taste": 8.5,
     "price": 1.39,
     "times_drunk": 1
+  },
+  {
+    "brand": "ROCKSTAR",
+    "drink": "ZERO SUGAR PEACH FLAVOUR",
+    "caffeine_mg": 155,
+    "volume_ml": 500,
+    "taste": 7.5,
+    "price": 0.99,
+    "times_drunk": 1
   }
 ]
