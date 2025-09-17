@@ -88,5 +88,14 @@
     "taste": 7.5,
     "price": 0.99,
     "times_drunk": 1
+  },
+  {
+    "brand": "ROCKSTAR",
+    "drink": "SOUR RASPBERRY FLAVOUR",
+    "caffeine_mg": 155,
+    "volume_ml": 500,
+    "taste": 6.3,
+    "price": 0.99,
+    "times_drunk": 1
   }
 ]
