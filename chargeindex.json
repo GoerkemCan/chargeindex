@@ -97,5 +97,14 @@
     "taste": 6.3,
     "price": 0.99,
     "times_drunk": 1
+  },
+  {
+    "brand": "MONSTER",
+    "drink": "ULTRA FIESTA MANGO FLAVOUR",
+    "caffeine_mg": 150,
+    "volume_ml": 500,
+    "taste": 7.0,
+    "price": 1.49,
+    "times_drunk": 1
   }
 ]
