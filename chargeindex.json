@@ -106,5 +106,14 @@
     "taste": 7.0,
     "price": 1.49,
     "times_drunk": 1
+  },
+  {
+    "brand": "BLACKCAT",
+    "drink": "ZERO",
+    "caffeine_mg": 155,
+    "volume_ml": 500,
+    "taste": 7.0,
+    "price": 0.49,
+    "times_drunk": 1
   }
 ]
