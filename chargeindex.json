@@ -115,5 +115,14 @@
     "taste": 7.0,
     "price": 0.49,
     "times_drunk": 1
+  },
+  {
+    "brand": "MONSTER",
+    "drink": "TOP SPEED ZERO SUGAR",
+    "caffeine_mg": 160,
+    "volume_ml": 500,
+    "taste": 8.0,
+    "price": 0.88,
+    "times_drunk": 1
   }
 ]
